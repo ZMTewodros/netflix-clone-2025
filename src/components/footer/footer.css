@@ -1,0 +1,33 @@
+.footer{
+    cursor: pointer;
+    
+
+}
+
+.footer-icon ul{
+    width:10vw ;
+    color: aliceblue;
+    list-style: none;
+    display: flex;
+    justify-content:space-between;
+    margin-left: 8rem;
+    
+    
+    
+
+    
+}
+.footer-data ul{
+    list-style: none;
+    color: darkgrey;
+    
+}
+.footer-data{
+    display: flex;
+    justify-content: space-evenly;
+    
+    
+}
+.footer-data ul li{
+    padding-bottom: 20px;
+}
