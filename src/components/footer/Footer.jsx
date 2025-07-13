@@ -2,6 +2,7 @@ import "../footer/footer.css"
 import FacebookOutlinedIcon from '@mui/icons-material/FacebookOutlined';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import YouTubeIcon from '@mui/icons-material/YouTube';
+import CopyrightIcon from '@mui/icons-material/Copyright';
 function Footer() {
   return (
    <>
@@ -21,6 +22,8 @@ function Footer() {
               <li>Audio Description</li>
               <li>Invertor Relation</li>
               <li>Legal Notices</li>
+              <li>Service code</li>
+              <li><CopyrightIcon/></li>
             </ul>
           </div>
           <div>
@@ -44,7 +47,6 @@ function Footer() {
               <li>Contact Us</li>
             </ul>
           </div>
-          
         </div>
       </div>
     

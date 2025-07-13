@@ -1,7 +1,6 @@
 .footer{
-    cursor: pointer;
-    
 
+    cursor: pointer;
 }
 
 .footer-icon ul{
@@ -12,10 +11,7 @@
     justify-content:space-between;
     margin-left: 8rem;
     
-    
-    
-
-    
+   
 }
 .footer-data ul{
     list-style: none;
